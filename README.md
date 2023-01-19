@@ -60,13 +60,16 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [React Tutorial (To-do List)] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+> This is project is part of Microverse React curriculum called the **React Tutorial** application. This application will be developed using the React framework.
+[guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/).
 
 ## 🛠 Built With <a name="built-with"></a>
+
+- Major languages
+- Frameworks
+- Technologies used
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -203,19 +206,12 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Grace Abike**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@GraceAbike](https://github.com/GraceAbike)
+- Twitter: [@GraceAbike1](https://twitter.com/GraceAbike1)
+- LinkedIn: [Grace Abike](https://www.linkedin.com/in/grace-abike-02770522a/)
+- Angel: [Grace-Abike](https://angel.co/u/grace-abike)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +253,9 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
